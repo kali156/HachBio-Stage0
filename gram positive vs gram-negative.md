@@ -2,6 +2,7 @@
 
 
 # **Gram-positive vs. negative bacteria**
+Authors (@slack): Mahmoud hassanein (@rahmanabil2002)
 
 
 Bacteria is a large group of unincellular microscopic organisms that is classified into prokaryotic, but it is also classified according to the staining as Gram-positive and Gram-negative bacteria.
@@ -53,13 +54,14 @@ Bacteria is a large group of unincellular microscopic organisms that is classifi
 
 ## **Result:**
 
-##  ****Gram-negative bacterial infection portends advanced disease and reduced time interval to recurrence in NSCLC patients.
+Gram-negative bacterial infection portends advanced disease and reduced time interval to recurrence in NSCLC patients.
+
 
 ## **conclusion:**
 
-## The relationship between gram-negative bacteria and cancer is complex and multifaceted. These bacteria, known for their robust outer membrane containing lipopolysaccharides (LPS), can contribute to cancer development and progression through chronic inflammation, immune evasion, and direct interaction with host cells. The chronic inflammation triggered by Gram-negative bacterial infections can create a microenvironment conducive to tumor growth and metastasis. Additionally, the LPS component of these bacteria can interact with toll-like receptors (TLRs) on host cells, promoting pro-inflammatory signaling pathways that may lead to cancerous changes in tissues. Understanding this relationship opens avenues for potential therapeutic interventions. Targeting bacterial infections, modulating the immune response, or disrupting specific bacterial-host interactions could offer new strategies in cancer prevention and treatment. Further research is needed to elucidate the precise mechanisms by which Gram-negative bacteria influence cancer biology and to develop effective therapies that mitigate these risks.
-
-\
+The relationship between gram-negative bacteria and cancer is complex and multifaceted. These bacteria, known for their robust outer membrane containing lipopolysaccharides (LPS), can contribute to cancer development and progression through chronic inflammation, immune evasion, and direct interaction with host cells. The chronic inflammation triggered by Gram-negative bacterial infections can create a microenvironment conducive to tumor growth and metastasis. Additionally, the LPS component of these bacteria can interact with toll-like receptors (TLRs) on host cells, promoting pro-inflammatory signaling pathways that may lead to cancerous changes in tissues. Understanding this relationship opens avenues for potential therapeutic interventions. Targeting bacterial infections, modulating the immune response, or disrupting specific bacterial-host interactions could offer new strategies in cancer prevention and treatment. Further research is needed to elucidate the precise mechanisms by which Gram-negative bacteria influence cancer biology and to develop effective therapies that mitigate these risks.
+## **References:**
+1.Sun M, Bai Y, Zhao S, et al. Gram-negative bacteria facilitate tumor progression through TLR4/IL-33 pathway in patients with non-small-cell lung cancer. Oncotarget. 2018;9(17):13462-13473. Published 2018 Jan 4. doi:10.18632/oncotarget.24008
 
 
 <!--EndFragment-->
