@@ -25,9 +25,6 @@ Bacteria is a large group of unincellular microscopic organisms that is classifi
 
 \
 \
-\
-\
-
 
 **Gram-positive and Gram-negative comparison:**
 
