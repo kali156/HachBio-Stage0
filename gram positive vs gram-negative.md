@@ -2,7 +2,7 @@
 
 
 # **Gram-positive vs. negative bacteria**
-Authors (@slack): Mahmoud hassanein (@rahmanabil2002)
+Authors (@slack): Mahmoud hassanein (@@Mahmoud hassanein)
 
 
 Bacteria is a large group of unincellular microscopic organisms that is classified into prokaryotic, but it is also classified according to the staining as Gram-positive and Gram-negative bacteria.
