@@ -6,8 +6,7 @@ Anti -Microbial Resistant (AMR) is causing widely concern around the world due t
 
 The burden of **antimicrobial resistance** refers to the **negative consequences** in terms of health, economy, and social well-being caused by the ability of microorganisms to evade the effects of antimicrobial treatments.
 
-The review was conducted through a systematic search in various databases, covering studies published between January 2013 and December 2015. The main objective was to identify and evaluate the methodologies used to estimate the AMR burden from various perspectives: patient, healthcare system (provider/payer), and economic.
-
+ The review was conducted through a systematic search in various databases, covering studies published between January 2013 and December 2015. The main objective was to identify and evaluate the methodologies used to estimate the AMR burden from various perspectives: patient, healthcare system (provider/payer), and economic.
 
 ## Data extraction and quality assessment
 
@@ -15,13 +14,31 @@ Several statistical methodologies were used to compare the data collected in the
 
 The review examined studies published between January 2013 and December 2015, utilizing a range of databases including Ovid ‘Medline & EMBASE,’ Scopus, and EconLit, along with grey literature from reputable health organizations.
 
-
 ## Results:
 
 The review analyzed 5187 titles and abstracts concluded into 214 studies were included, of which 187 estimated the AMR burden from the patient perspective, 75 from the healthcare system perspective, and only 11 from the economic perspective. The most individually studied genus was:
 
-_Staphylococcus_ (23%, 50/214), followed by _Klebsiella_ (9%, 19/214) and _Acinetobacter_ (8%, 18/214). The countries that individually produced the highest number of studies were the United States (19%, 40/214), followed by South Korea (7%, 15/214) and Spain (6%, 13/214).
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+pie showdata
+	"patient prespective": 187
+	"health-care system perspective": 75
+	"Economic perspective" :11
+	
+```
 
+ *Staphylococcus* (23%, 50/214), followed by *Klebsiella* (9%, 19/214) and *Acinetobacter* (8%, 18/214). The countries that individually produced the highest number of studies were the United States (19%, 40/214), followed by South Korea (7%, 15/214) and Spain (6%, 13/214).
+
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+pie showdata
+	"*Staphylococcus*": 50
+	"*Klebsiella*": 19
+	"*Acinetobacter*" :8
+	"*other*" :110
+	
+	
+```
 
 ## The different estimating Perspective of the burden of AMR
 
@@ -29,13 +46,11 @@ _Staphylococcus_ (23%, 50/214), followed by _Klebsiella_ (9%, 19/214) and _Acine
 
 the total studies the Review collected was 187 studies the 95% (177/187) of studies estimating patient burden calculated mortality burden, While the remaining 5% (10/187) focusing on morbidity burden. Of those estimating a mortality burden. 48% of studies found AMR had a significant impact on mortality. Studies focusing on resistance on morbidity mainly focused on clinical outcomes like clinical failure, time to stability, recurring infections, or secondary infections. Most studies found resistance to be associated with higher mortality. However, there is no clear consensus on the impact of bacterial resistance mechanisms on mortality outcomes. Only one study estimated the potential patient burden of AMR via secondary effects, estimating that a 30% reduction in antibiotic prophylaxis for certain surgical and chemotherapeutic procedures would result in 6300 infection-related deaths annually.
 
-
 ### Estimating the healthcare system burden of AMR
 
 Of 75 studies, 64 estimated length of stay (LoS) burden and 31 estimated monetary cost. Most LoS studies (69%) found statistically significant impacts of resistance, though 39% used simple significance testing against descriptive statistics.
 
-Thirteen studies estimated excess LoS due to resistant infections, with three using multistate modeling to adjust for time dependency bias. Most excess LoS estimates focused on Gram-positive bacteria. vancomycin resistance on Methicillin resistant Staphylococcus aureus (MRSA) bloodstream infections showed excess LoS of 12.8 days in Australia, 11.5 days in Switzerland, and 11.43 days for American Veterans, using time-adjusted methods.
-
+Thirteen studies estimated excess LoS due to resistant infections, with three using multistate modeling to adjust for time dependency bias. Most excess LoS estimates focused on Gram-positive bacteria.  vancomycin resistance on Methicillin resistant Staphylococcus aureus (MRSA) bloodstream infections showed excess LoS of 12.8 days in Australia, 11.5 days in Switzerland, and 11.43 days for American Veterans, using time-adjusted methods.
 
 ### Conclusion
 
